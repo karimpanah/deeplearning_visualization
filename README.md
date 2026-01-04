@@ -49,7 +49,15 @@ if __name__ == "__main__":
     # 3. Generate ALL plots
     # visualizer.plot(class_names=['Class A', 'Class B'], modes=['all'])
 
-3D Rotation,3-View Analysis
-,
-Misclassified Detection,Density Heatmap
-,
+## 📸 Gallery
+
+| 3D Rotation | 3-View Analysis |
+| :---: | :---: |
+| ![Rotation](assets/t-SNE_rotation.gif) | ![3 Views](assets/t-SNE_3views.png) |
+
+| Misclassified Detection | Density Heatmap |
+| :---: | :---: |
+| ![Errors](assets/t-SNE_mis.png) | ![Density](assets/t-SNE_density.png) |
+
+---
+*This repository is actively maintained. New visualization modules will be added soon.*
