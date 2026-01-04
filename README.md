@@ -50,8 +50,6 @@ if __name__ == "__main__":
 ```
 ## 📸 Gallery
 
-## 📸 Gallery
-
 | 2D Plot | 3-View Analysis |
 | :---: | :---: |
 | <img src="assets/t-SNE_2d.png" width="400"> | <img src="assets/t-SNE_3views.png" width="400"> |
