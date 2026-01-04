@@ -32,10 +32,10 @@ You can use the provided class to visualize any PyTorch classification model (Re
 Ensure you have the required libraries:
 ```bash
 pip install torch matplotlib scikit-learn seaborn plotly pandas tqdm
-
+```
 ### Step 2: Run the Code
 Download tsne_viz.py and run it. You can modify the bottom section of the script to load your own model:
-
+```bash
 if __name__ == "__main__":
     from tsne_viz import jd_tsne_cl
     
@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
     # 3. Generate ALL plots
     # visualizer.plot(class_names=['Class A', 'Class B'], modes=['all'])
-
+```
 ## 📸 Gallery
 
 | 3D Rotation | 3-View Analysis |
@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
 | Misclassified Detection | Density Heatmap |
 | :---: | :---: |
-| ![Errors](assets/t-SNE_mis.png) | ![Density](assets/t-SNE_density.png) |
+| ![Errors](assets/t-SNE_mis.PNG) | ![Density](assets/t-SNE_density.png) |
 
 ---
 *This repository is actively maintained. New visualization modules will be added soon.*
