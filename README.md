@@ -33,7 +33,6 @@ Ensure you have the required libraries:
 ```bash
 pip install torch matplotlib scikit-learn seaborn plotly pandas tqdm
 
-
 ### Step 2: Run the Code
 Download tsne_viz.py and run it. You can modify the bottom section of the script to load your own model:
 
