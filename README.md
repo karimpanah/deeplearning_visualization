@@ -50,13 +50,17 @@ if __name__ == "__main__":
 ```
 ## 📸 Gallery
 
-| 3D Rotation | 3-View Analysis |
+| 2D plot | 3-View plots |
 | :---: | :---: |
-| ![Rotation](assets/t-SNE_rotation.gif) | ![3 Views](assets/t-SNE_3views.png) |
+| ![Rotation](assets/t-SNE_2d.png) | ![3 Views](assets/t-SNE_3views.png) |
+
+| 3D Rotation | 3D plot |
+| :---: | :---: |
+| ![Rotation](assets/t-SNE_rotation.gif) | ![3 Views](assets/t-SNE_3d.png) |
 
 | Misclassified Detection | Density Heatmap |
 | :---: | :---: |
-| ![Errors](assets/t-SNE_mis.PNG) | ![Density](assets/t-SNE_density.png) |
+| ![Errors](assets/t-SNE_mis.png) | ![Density](assets/t-SNE_density.png) |
 
 ---
 *This repository is actively maintained. New visualization modules will be added soon.*
