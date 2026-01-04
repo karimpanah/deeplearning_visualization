@@ -50,17 +50,19 @@ if __name__ == "__main__":
 ```
 ## 📸 Gallery
 
-| 2D plot | 3-View plots |
-| :---: | :---: |
-| ![Rotation](assets/t-SNE_2d.png) | ![3 Views](assets/t-SNE_3views.png) |
+## 📸 Gallery
 
-| 3D Rotation | 3D plot |
+| 2D Plot | 3-View Analysis |
 | :---: | :---: |
-| ![Rotation](assets/t-SNE_rotation.gif) | ![3 Views](assets/t-SNE_3d.png) |
+| <img src="assets/t-SNE_2d.png" width="400"> | <img src="assets/t-SNE_3views.png" width="400"> |
+
+| 3D Rotation (GIF) | 3D Static Plot |
+| :---: | :---: |
+| <img src="assets/t-SNE_rotation.gif" width="400"> | <img src="assets/t-SNE_3d.png" width="400"> |
 
 | Misclassified Detection | Density Heatmap |
 | :---: | :---: |
-| ![Errors](assets/t-SNE_mis.png) | ![Density](assets/t-SNE_density.png) |
+| <img src="assets/t-SNE_mis.png" width="400"> | <img src="assets/t-SNE_density.png" width="400"> |
 
 ---
 *This repository is actively maintained. New visualization modules will be added soon.*
